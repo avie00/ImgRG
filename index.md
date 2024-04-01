@@ -11,7 +11,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 08.04.2024 | Ryan Griffiths | DUSt3R: Geometric 3D Vision Made Easy | [paper](https://arxiv.org/abs/2312.14132) [project](https://dust3r.europe.naverlabs.com/) |
-| 15.04.2024 | Jack Naylor | TBA | TBA |
+| 15.04.2024 | Jack Naylor | An Implicit Neural Representation for the Image Stack: Depth, All in Focus, and High Dynamic Range | [paper](https://dl.acm.org/doi/abs/10.1145/3618367) [project](https://taf.mpi-inf.mpg.de/) |
 | 22.04.2024 | Jesse Mehami | TBA | TBA |
 
 ## Members 
