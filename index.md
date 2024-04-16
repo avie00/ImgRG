@@ -10,8 +10,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 15.04.2024 | Jack Naylor | An Implicit Neural Representation for the Image Stack: Depth, All in Focus, and High Dynamic Range | [paper](https://dl.acm.org/doi/abs/10.1145/3618367) [project](https://taf.mpi-inf.mpg.de/) |
-| 22.04.2024 | Jesse Mehami | TBA | TBA |
+| 22.04.2024 | Jesse Mehami | Structured Kernel Estimation for Photon-Limited Deconvolution | [paper](https://www.computer.org/csdl/proceedings-article/cvpr/2023/012900j863/1POTd4blVEA) [project](https://sanghviyashiitb.github.io/structured-kernel-webpage/) |
+| 29.04.2024 | CVPR'24 papers | 3 minutes presentation by each participant + disussions | [accepted papers](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) |
 
 ## Members 
 * Active, Presenters
@@ -57,6 +57,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 15.04.2024 | Jack Naylor | An Implicit Neural Representation for the Image Stack: Depth, All in Focus, and High Dynamic Range | [paper](https://dl.acm.org/doi/abs/10.1145/3618367) [project](https://taf.mpi-inf.mpg.de/) |
 | 08.04.2024 | Ryan Griffiths | DUSt3R: Geometric 3D Vision Made Easy | [paper](https://arxiv.org/abs/2312.14132) [project](https://dust3r.europe.naverlabs.com/) |
 | 25.03.2024 | Dr. Donald Dansereau | Neural Fields for Structured Lighting | [paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800d489/1TJhYIVDrtS) [project](https://imaging.cs.cmu.edu/nfsl/) |
 | 18.03.2024 | Dr. Gideon Billings | Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-Shot Cross-Dataset Transfer | [paper](https://www.computer.org/csdl/journal/tp/2022/03/09178977/1mDppWbcU5q) [project](https://github.com/isl-org/MiDaS) |
