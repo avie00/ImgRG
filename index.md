@@ -92,6 +92,21 @@ WIP
 | 04.07.2022 | Avie | Dancing under the stars: video denoising in starlight | [link](http://arxiv.org/abs/2204.04210) |
 | 11.07.2022 | Ryan | Self-Calibrating Neural Radiance Fields | [link](https://arxiv.org/abs/2108.13826 ) <br/> [link](https://postech-cvlab.github.io/SCNeRF/) |
 | 18.07.2022 | Jack | Gravitationally Lensed Black Hole Emission Tomography | [link](http://imaging.cms.caltech.edu/bhnerf/CVPR2022_main.pdf) |
+| 25.07.2022 | Georgia | Vision GNN: An Image is Worth Graph of Nodes        | [link](https://arxiv.org/abs/2206.00272)    |
+| 01.08.2022 | Ziting  | Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation        | [link](https://arxiv.org/abs/2203.15224)    |
+| 08.08.2022 | Feiyu   | A Fine-Grained Analysis on Distribution Shift       | [link](https://openreview.net/pdf?id=Dl4LetuLdyK)   |
+| 15.08.2022 | Avie    | R2D2: Repeatable and Reliable Detector and Descriptor       | [link](https://europe.naverlabs.com/research/publications/r2d2-reliable-and-repeatable-detectors-and-descriptors-for-joint-sparse-local-keypoint-detection-and-feature-extraction/) |
+| 22.08.2022 | Darren  | Multi-Target Domain Adaptation with Collaborative Consistency Learning      | [link](https://openaccess.thecvf.com/content/CVPR2021/papers/Isobe_Multi-Target_Domain_Adaptation_With_Collaborative_Consistency_Learning_CVPR_2021_paper.pdf)      |
+| 29.08.2022 | Ryan    | Acquiring a Dynamic Light Field through a Single-Shot Coded Image   | [link](https://openaccess.thecvf.com/content/CVPR2022/papers/Mizuno_Acquiring_a_Dynamic_Light_Field_Through_a_Single-Shot_Coded_Image_CVPR_2022_paper.pdf)  |
+| 19.09.2022 | Heather | CodedStereo: Learned Phase Masks for Large Depth-of-field Stereo    | [link](https://openaccess.thecvf.com/content/CVPR2021/html/Tan_CodedStereo_Learned_Phase_Masks_for_Large_Depth-of-Field_Stereo_CVPR_2021_paper.html)        |
+| 26.09.2022 | Jack    | Refactoring ISP for High-Level Vision Tasks | [link](https://ieeexplore.ieee.org/document/9812052)        |
+| 10.10.2022 | Ryan    | BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers | [link](https://arxiv.org/pdf/2203.17270.pdf)        |
+| 17.10.2022 | Ziting  | Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation | [link](https://openaccess.thecvf.com/content/CVPR2022/papers/Kundu_Panoptic_Neural_Fields_A_Semantic_Object-Aware_Neural_Scene_Representation_CVPR_2022_paper.pdf)  |
+| 31.10.2022 | All     | IROS Week   | [link](https://protect-au.mimecast.com/s/u4IBCE8wmrtWV5MQzFNlzJh?domain=docs.google.com)    |
+| 07.11.2022 | Oliver  | Noise2NoiseFlow: Realistic Camera Noise Modeling Without Clean Images       | [link](https://openaccess.thecvf.com/content/CVPR2022/papers/Maleky_Noise2NoiseFlow_Realistic_Camera_Noise_Modeling_Without_Clean_Images_CVPR_2022_paper.pdf)       |
+| 14.11.2022 | Georgia | Disentangled Representation Learning        | [link](https://protect-au.mimecast.com/s/Kqv0Cnx1jniGBkNmNfJ0ISs?domain=deepmind.com)       |
+| 22.11.2022 | Liyang  | VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator | [link](https://ieeexplore.ieee.org/document/8421746)        |
+| 28.11.2022 | All     | Top Papers  | [link](https://protect-au.mimecast.com/s/x7QBCVARKgClyw5y1tGgrDb?domain=docs.google.com)    |
 
 ### 2021
 
