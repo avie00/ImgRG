@@ -55,6 +55,7 @@ The meetings are held once a week (day and time subject to change depending on a
   * Dr. Jasper Brown
 
 ## Past Presentations
+
 [Archive](#Archive)
 [2021](#2021)
 [2022](#2022)
@@ -221,11 +222,12 @@ Organizer:
 Alexandre Cardaillac (alexandre dot cardaillac at sydney dot edu dot au)
 
 ### Archive
+
 #### 2013
 
 | Date | Presenter | Paper Title | Related Link | 
 | ---------| ----------- | ---------| ----------- |
-| Navid | 3 Oct | Object discovery and segmentation | [Russell-2006-Multiple_Segmentations_Object_Discovery.pdf](https://australiancentreforrobotics.atlassian.net/wiki/download/attachments/8028179/Russell-2006-Multiple_Segmentations_Object_Discovery.pdf?version=1&modificationDate=1487148401000&cacheVersion=1&api=v2) [ImgRG_-_Object_discovery_-_Russell.pdf](https://australiancentreforrobotics.atlassian.net/wiki/download/attachments/8028179/ImgRG_-_Object_discovery_-_Russell.pdf?version=1&modificationDate=1487148401000&cacheVersion=1&api=v2) |
+| Navid | 3 Oct | Object discovery and segmentation | [paper](https://australiancentreforrobotics.atlassian.net/wiki/download/attachments/8028179/Russell-2006-Multiple_Segmentations_Object_Discovery.pdf?version=1&modificationDate=1487148401000&cacheVersion=1&api=v2)|
 | Tariq | 17 Oct | KAZE Features | [http://www.doc.ic.ac.uk/~ajd/Publications/alcantarilla_etal_eccv2012.pdf](http://www.doc.ic.ac.uk/~ajd/Publications/alcantarilla_etal_eccv2012.pdf), [http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html), |
 | Zachary | 24 Oct | A Discriminatively Trained, Multiscale, Deformable Part Model | [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4587597](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4587597) |
 | Rishi | 7 Nov | Colour Constancy | [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5986707&tag=1](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5986707&tag=1) |
