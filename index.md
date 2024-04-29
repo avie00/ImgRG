@@ -14,11 +14,11 @@ The meetings are held once a week (day and time subject to change depending on a
 | 13.05.2024 | Bhargava Gowda | TBA | TBA |
 | 20.05.2024 | Nikolai Goncharov | TBA | TBA |
 | 27.05.2024 | Bina Rajan | TBA | TBA |
-| 03.05.2024 | Ryan Griffiths | TBA | TBA |
-| 10.05.2024 | Alexandre Cardaillac | TBA | TBA |
-| 17.05.2024 | Jesse Mehami | TBA | TBA |
-| 24.05.2024 | Jack Naylor | TBA | TBA |
-| 01.06.2024 | Dr. Donald Dansereau | TBA | TBA |
+| 03.06.2024 | Ryan Griffiths | TBA | TBA |
+| 10.06.2024 | Alexandre Cardaillac | TBA | TBA |
+| 17.06.2024 | Jesse Mehami | TBA | TBA |
+| 24.06.2024 | Jack Naylor | TBA | TBA |
+| 01.07.2024 | Dr. Donald Dansereau | TBA | TBA |
 
 ## Members 
 * Active, Presenters
