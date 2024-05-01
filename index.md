@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 06.05.2024 | Chengyang (Oliver) Yan | TBA | TBA |
+| 06.05.2024 | Chengyang (Oliver) Yan | Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration | [paper](https://arxiv.org/abs/2402.05746) [project](https://yifanlu0227.github.io/ChatSim/) |
 | 13.05.2024 | Bhargava Gowda | TBA | TBA |
 | 20.05.2024 | Nikolai Goncharov | TBA | TBA |
 | 27.05.2024 | Bina Rajan | TBA | TBA |
