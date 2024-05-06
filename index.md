@@ -10,8 +10,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 06.05.2024 | Chengyang (Oliver) Yan | Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration | [paper](https://arxiv.org/abs/2402.05746) [project](https://yifanlu0227.github.io/ChatSim/) |
-| 13.05.2024 | Bhargava Gowda | TBA | TBA |
+| 13.05.2024 | Bhargava Gowda | Fully neuromorphic vision and control for autonomous drone flight
+ | [paper](https://arxiv.org/abs/2303.08778) |
 | 20.05.2024 | Nikolai Goncharov | TBA | TBA |
 | 27.05.2024 | Bina Rajan | TBA | TBA |
 | 03.06.2024 | Ryan Griffiths | TBA | TBA |
@@ -66,6 +66,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 06.05.2024 | Chengyang (Oliver) Yan | Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration | [paper](https://arxiv.org/abs/2402.05746) [project](https://yifanlu0227.github.io/ChatSim/) |
 | 29.04.2024 | CVPR'24 papers | 3 minutes presentation by each participant <br/> *Ryan Griffiths* - GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting [project](https://gs-slam.github.io/); Data-Efficient Multimodal Fusion on a Single GPU [paper](https://arxiv.org/abs/2312.10144) <br/> *Dr. Donald Dansereau* - Time-Efficient Light-Field Acquisition Using Coded Aperture and Events [project](https://www.fujii.nuee.nagoya-u.ac.jp/Research/EventLF/) <br/> *Bina Rajan* - Motion Blur Decomposition with Cross-shutter Guidance [project](https://jixiang2016.github.io/dualBR_site/) <br/> *Chengyang (Oliver) Yan* - Learning to Control Camera Exposure via Reinforcement Learning [project](https://sites.google.com/view/drl-ae); SynFog: A Photo-realistic Synthetic Fog Dataset based on End-to-end Imaging Simulation for Advancing Real-World Defogging in Autonomous Driving [paper](https://arxiv.org/pdf/2403.17094) <br/> *Jack Naylor* - Rethinking Inductive Biases for Surface Normal Estimation [project](https://baegwangbin.github.io/DSINE/) <br/> *Bhargava Gowda* - Shadows Don’t Lie and Lines Can’t Bend! Generative Models don’t know Projective Geometry...for now [project](https://projective-geometry.github.io/) <br/> *Jesse Mehami* - Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model [paper](https://arxiv.org/abs/2403.17460) <br/> *Alexandre Cardaillac* - Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark [project](https://facebookresearch.github.io/real-acoustic-fields/); Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion [paper](https://arxiv.org/abs/2312.12471) | [accepted papers](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) [Conference page](https://cvpr.thecvf.com/Conferences/2024/) |
 | 22.04.2024 | Jesse Mehami | Structured Kernel Estimation for Photon-Limited Deconvolution | [paper](https://www.computer.org/csdl/proceedings-article/cvpr/2023/012900j863/1POTd4blVEA) [project](https://sanghviyashiitb.github.io/structured-kernel-webpage/) |
 | 15.04.2024 | Jack Naylor | An Implicit Neural Representation for the Image Stack: Depth, All in Focus, and High Dynamic Range | [paper](https://dl.acm.org/doi/abs/10.1145/3618367) [project](https://taf.mpi-inf.mpg.de/) |
