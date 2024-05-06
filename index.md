@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 13.05.2024 | Bhargava Gowda | Fully neuromorphic vision and control for autonomous drone flight
- | [paper](https://arxiv.org/abs/2303.08778) |
+| 13.05.2024 | Bhargava Gowda | Fully neuromorphic vision and control for autonomous drone flight | [paper](https://arxiv.org/abs/2303.08778) |
 | 20.05.2024 | Nikolai Goncharov | TBA | TBA |
 | 27.05.2024 | Bina Rajan | TBA | TBA |
 | 03.06.2024 | Ryan Griffiths | TBA | TBA |
