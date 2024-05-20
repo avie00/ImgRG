@@ -11,12 +11,13 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 20.05.2024 | Nikolai Goncharov | DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes | [paper](https://arxiv.org/abs/2312.07920) [project](https://pkuvdig.github.io/DrivingGaussian/) |
-| 27.05.2024 | Bina Rajan | TBA | TBA |
-| 03.06.2024 | Ryan Griffiths | TBA | TBA |
-| 10.06.2024 | Alexandre Cardaillac | TBA | TBA |
-| 17.06.2024 | Jesse Mehami | TBA | TBA |
-| 24.06.2024 | Jack Naylor | TBA | TBA |
-| 01.07.2024 | Dr. Donald Dansereau | TBA | TBA |
+| 27.05.2024 | ICML'24 papers | 3 minutes presentation by each participant | [accepted papers](https://icml.cc/virtual/2024/papers.html) [Conference page](https://icml.cc/Conferences/2024) |
+| 03.06.2024 | Bina Rajan | Motion-from-Blur: 3D Shape and Motion Estimation of Motion-blurred Objects in Videos | [paper](https://www.computer.org/csdl/proceedings-article/cvpr/2022/694600p5969/1H1lSCn4Y24) [project](https://github.com/rozumden/MotionFromBlur) |
+| 10.06.2024 | Ryan Griffiths | TBA | TBA |
+| 17.06.2024 | Alexandre Cardaillac | TBA | TBA |
+| 24.06.2024 | Jesse Mehami | TBA | TBA |
+| 01.07.2024 | Jack Naylor | TBA | TBA |
+| 08.07.2024 | Dr. Donald Dansereau | TBA | TBA |
 
 ## Members 
 * Active, Presenters
