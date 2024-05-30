@@ -11,7 +11,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 03.06.2024 | Bina Rajan | Motion-from-Blur: 3D Shape and Motion Estimation of Motion-blurred Objects in Videos | [paper](https://www.computer.org/csdl/proceedings-article/cvpr/2022/694600p5969/1H1lSCn4Y24) [project](https://github.com/rozumden/MotionFromBlur) |
-| 10.06.2024 | Ryan Griffiths | TBA | TBA |
+| 10.06.2024 | Ryan Griffiths | FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent | [paper](https://arxiv.org/abs/2404.15259) [project](https://cameronosmith.github.io/flowmap/) |
 | 17.06.2024 | Alexandre Cardaillac | TBA | TBA |
 | 24.06.2024 | Jesse Mehami | TBA | TBA |
 | 01.07.2024 | Jack Naylor | TBA | TBA |
