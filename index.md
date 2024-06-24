@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 24.06.2024 | Alexandre Cardaillac | Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark | [paper](https://arxiv.org/abs/2403.18821) [project](https://facebookresearch.github.io/real-acoustic-fields/) |
-| 01.07.2024 | Jesse Mehami | TBA | TBA |
+| 01.07.2024 | Jesse Mehami | Single-shot Hyperspectral-Depth Imaging with Learned Diffractive Optics | [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Baek_Single-Shot_Hyperspectral-Depth_Imaging_With_Learned_Diffractive_Optics_ICCV_2021_paper.html) |
 | 08.07.2024 | Jack Naylor | TBA | TBA |
 
 ## Members 
@@ -60,6 +59,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 24.06.2024 | Alexandre Cardaillac | Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark | [paper](https://arxiv.org/abs/2403.18821) [project](https://facebookresearch.github.io/real-acoustic-fields/) |
 | 17.06.2024 | Ryan Griffiths | FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent | [paper](https://arxiv.org/abs/2404.15259) [project](https://cameronosmith.github.io/flowmap/) |
 | 03.06.2024 | Bina Rajan | Motion-from-Blur: 3D Shape and Motion Estimation of Motion-blurred Objects in Videos | [paper](https://www.computer.org/csdl/proceedings-article/cvpr/2022/694600p5969/1H1lSCn4Y24) [project](https://github.com/rozumden/MotionFromBlur) |
 | 27.05.2024 | ICML'24 papers | 3 minutes presentation by each participant <br/> BAT: Learning to Reason about Spatial Sounds with Large Language Models [project](https://zhishengzheng.com/BAT/) <br/> Completing Visual Objects via Bridging Generation and Segmentation [paper](https://arxiv.org/abs/2310.00808) <br/> Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [project](https://github.com/hustvl/Vim) <br/> FiT: Flexible Vision Transformer for Diffusion Model [project](https://github.com/whlzy/FiT) <br/> Position Paper: What makes an image realistic? [paper](https://arxiv.org/abs/2403.04493) <br/> Make-A-Shape: a Ten-Million-scale 3D Shape Model [project](https://edward1997104.github.io/make-a-shape/) <br/> Rolling Diffusion Models [paper](https://arxiv.org/pdf/2402.09470) <br/>  Boximator: Generating Rich and Controllable Motions for Video Synthesis [paper](https://arxiv.org/pdf/2402.01566) <br/>  Don't trust your eyes: on the (un)reliability of feature visualizations [paper](https://arxiv.org/abs/2306.04719) <br/> Exploring the Low-Pass Filtering Behavior in Image Super-Resolution [paper](https://arxiv.org/pdf/2405.07919) <br/> Merging Multi-Task Models via Weight-Ensembling Mixture of Experts [paper](https://arxiv.org/abs/2402.00433) <br/> Prior Mismatch and Adaptation in PnP-ADMM with a Nonconvex Convergence Analysis [project](https://wustl-cig.github.io/MMPnPADMMwww/) | [accepted papers](https://icml.cc/virtual/2024/papers.html) [Conference page](https://icml.cc/Conferences/2024) |
