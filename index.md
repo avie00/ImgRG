@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 15.07.2024 | Alexandre Cardaillac | TBD | TBD |
+| 15.07.2024 | Alexandre Cardaillac | The Next Best Underwater View | [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sheinin_The_Next_Best_CVPR_2016_paper.html) |
 | 22.07.2024 | SIGGRAPH'24 papers | 3 minutes presentation by each participant | [accepted papers](https://s2024.conference-program.org/?event_type=sstype101) [Conference page](https://s2024.siggraph.org/) |
 | 29.07.2024 | Jesse Mehami | TBD | TBD |
 | 05.08.2024 | Donald Dansereau | TBD | TBD |
