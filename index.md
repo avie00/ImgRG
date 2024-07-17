@@ -10,7 +10,6 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 15.07.2024 | Alexandre Cardaillac | The Next Best Underwater View | [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sheinin_The_Next_Best_CVPR_2016_paper.html) |
 | 22.07.2024 | SIGGRAPH'24 papers | 3 minutes presentation by each participant | [accepted papers](https://s2024.conference-program.org/?event_type=sstype101) [Conference page](https://s2024.siggraph.org/) |
 | 29.07.2024 | Jesse Mehami | TBD | TBD |
 | 05.08.2024 | Donald Dansereau | TBD | TBD |
@@ -66,6 +65,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 15.07.2024 | Alexandre Cardaillac | The Next Best Underwater View | [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sheinin_The_Next_Best_CVPR_2016_paper.html) |
 | 08.07.2024 | Jack Naylor | Neural Visibility Field for Uncertainty-Driven Active Mapping | [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xue_Neural_Visibility_Field_for_Uncertainty-Driven_Active_Mapping_CVPR_2024_paper.html) [project](https://sites.google.com/view/nvf-cvpr24/) |
 | 01.07.2024 | Jesse Mehami | Single-shot Hyperspectral-Depth Imaging with Learned Diffractive Optics | [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Baek_Single-Shot_Hyperspectral-Depth_Imaging_With_Learned_Diffractive_Optics_ICCV_2021_paper.html) |
 | 24.06.2024 | Alexandre Cardaillac | Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark | [paper](https://arxiv.org/abs/2403.18821) [project](https://facebookresearch.github.io/real-acoustic-fields/) |
