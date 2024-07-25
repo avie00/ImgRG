@@ -12,11 +12,10 @@ The meetings are held once a week (day and time subject to change depending on a
 | ---------| ----------- | ---------| ----------- |
 | 29.07.2024 | Jesse Mehami | TBD | TBD |
 | 05.08.2024 | Donald Dansereau | TBD | TBD |
-| 12.08.2024 | ECCV'24 papers | 3 minutes presentation by each participant | TBD |
-| 19.08.2024 | Nikolai Goncharov | TBD | TBD |
-| 26.08.2024 | Bina Rajan | TBD | TBD |
-| 02.09.2024 | Jack Naylor | TBD | TBD |
-| 09.09.2024 | Oliver Yan | TBD | TBD |
+| 12.08.2024 | Nikolai Goncharov | TBD | TBD |
+| 19.08.2024 | Bina Rajan | TBD | TBD |
+| 26.08.2024 | Jack Naylor | TBD | TBD |
+| 02.09.2024 | Oliver Yan | TBD | TBD |
 
 ## Members 
 * Active, Presenters
