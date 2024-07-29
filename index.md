@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 29.07.2024 | Jesse Mehami | TBD | TBD |
-| 05.08.2024 | Bina Rajan | TBD | TBD |
+| 05.08.2024 | Bina Rajan | Mitigating Motion Blur in Neural Radiance Fields with Events and Frames | [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cannici_Mitigating_Motion_Blur_in_Neural_Radiance_Fields_with_Events_and_CVPR_2024_paper.html) [project](https://github.com/uzh-rpg/EvDeblurNeRF)|
 | 12.08.2024 | Nikolai Goncharov | TBD | TBD |
 | 19.08.2024 | Jack Naylor | TBD | TBD |
 | 26.08.2024 | Oliver Yan | TBD | TBD |
@@ -63,6 +62,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 29.07.2024 | Jesse Mehami | Learning Lens Blur Fields | [paper](https://doi.org/10.48550/arXiv.2310.11535) [project](https://estherlin.github.io/blur-fields/) |
 | 22.07.2024 | SIGGRAPH'24 papers | 3 minutes presentation by each participant <br/> Deep Hybrid Camera Deblurring for Smartphone Cameras [paper](https://doi.org/10.1145/3641519.3657507) <br/> Cricket: A Self-Powered Chirping Pixel [paper](https://doi.org/10.1145/3658196) <br/> Radar Fields: Frequency-Space Neural Scene Representations for FMCW Radar [paper](https://doi.org/10.1145/3641519.3657510) <br/> Real-Time Path Guiding Using Bounding Voxel Sampling [paper](https://doi.org/10.1145/3658203) <br/> Aperture-Aware Lens Design [paper](https://doi.org/10.1145/3641519.3657398) <br/> IntrinsicDiffusion: Joint Intrinsic Layers from Latent Diffusion Models [paper](https://doi.org/10.1145/3641519.3657472) | [accepted papers](https://s2024.conference-program.org/?event_type=sstype101) [Conference page](https://s2024.siggraph.org/) |
 | 15.07.2024 | Alexandre Cardaillac | The Next Best Underwater View | [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sheinin_The_Next_Best_CVPR_2016_paper.html) |
 | 08.07.2024 | Jack Naylor | Neural Visibility Field for Uncertainty-Driven Active Mapping | [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xue_Neural_Visibility_Field_for_Uncertainty-Driven_Active_Mapping_CVPR_2024_paper.html) [project](https://sites.google.com/view/nvf-cvpr24/) |
