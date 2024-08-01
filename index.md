@@ -10,8 +10,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 06.08.2024 | Bina Rajan | Mitigating Motion Blur in Neural Radiance Fields with Events and Frames | [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cannici_Mitigating_Motion_Blur_in_Neural_Radiance_Fields_with_Events_and_CVPR_2024_paper.html) [project](https://github.com/uzh-rpg/EvDeblurNeRF)|
-| 13.08.2024 | Nikolai Goncharov | TBD | TBD |
+| 06.08.2024 | Bina Rajan | Mitigating Motion Blur in Neural Radiance Fields with Events and Frames | [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cannici_Mitigating_Motion_Blur_in_Neural_Radiance_Fields_with_Events_and_CVPR_2024_paper.html) [project](https://github.com/uzh-rpg/EvDeblurNeRF) |
+| 13.08.2024 | Nikolai Goncharov | SAM 2: Segment Anything in Images and Videos | [paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) [project](https://ai.meta.com/SAM2/) |
 | 20.08.2024 | Jack Naylor | TBD | TBD |
 | 27.08.2024 | Oliver Yan | TBD | TBD |
 | 03.09.2024 | Donald Dansereau | TBD | TBD |
