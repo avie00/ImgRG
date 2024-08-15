@@ -10,9 +10,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 13.08.2024 | Nikolai Goncharov | SAM 2: Segment Anything in Images and Videos | [paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) [project](https://ai.meta.com/SAM2/) |
 | 20.08.2024 | Jack Naylor | RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis | [paper](https://doi.org/10.48550/arXiv.2408.03356) [project](https://raygauss.github.io/) |
-| 27.08.2024 | Oliver Yan | TBD | TBD |
+| 27.08.2024 | Oliver Yan | Neural Exposure Fusion for High-Dynamic Range Object Detection | [paper](https://openaccess.thecvf.com//content/CVPR2024/html/Onzon_Neural_Exposure_Fusion_for_High-Dynamic_Range_Object_Detection_CVPR_2024_paper.html) [project](https://light.princeton.edu/publication/neural-exposure-fusion/) |
 | 03.09.2024 | Donald Dansereau | TBD | TBD |
 
 ## Members 
@@ -61,6 +60,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 13.08.2024 | Nikolai Goncharov | SAM 2: Segment Anything in Images and Videos | [paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) [project](https://ai.meta.com/SAM2/) |
 | 06.08.2024 | Bina Rajan | Mitigating Motion Blur in Neural Radiance Fields with Events and Frames | [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cannici_Mitigating_Motion_Blur_in_Neural_Radiance_Fields_with_Events_and_CVPR_2024_paper.html) [project](https://github.com/uzh-rpg/EvDeblurNeRF) |
 | 29.07.2024 | Jesse Mehami | Learning Lens Blur Fields | [paper](https://doi.org/10.48550/arXiv.2310.11535) [project](https://estherlin.github.io/blur-fields/) |
 | 22.07.2024 | SIGGRAPH'24 papers | 3 minutes presentation by each participant <br/> Deep Hybrid Camera Deblurring for Smartphone Cameras [paper](https://doi.org/10.1145/3641519.3657507) <br/> Cricket: A Self-Powered Chirping Pixel [paper](https://doi.org/10.1145/3658196) <br/> Radar Fields: Frequency-Space Neural Scene Representations for FMCW Radar [paper](https://doi.org/10.1145/3641519.3657510) <br/> Real-Time Path Guiding Using Bounding Voxel Sampling [paper](https://doi.org/10.1145/3658203) <br/> Aperture-Aware Lens Design [paper](https://doi.org/10.1145/3641519.3657398) <br/> IntrinsicDiffusion: Joint Intrinsic Layers from Latent Diffusion Models [paper](https://doi.org/10.1145/3641519.3657472) | [accepted papers](https://s2024.conference-program.org/?event_type=sstype101) [Conference page](https://s2024.siggraph.org/) |
