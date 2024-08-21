@@ -10,9 +10,9 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 20.08.2024 | Jack Naylor | RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis | [paper](https://doi.org/10.48550/arXiv.2408.03356) [project](https://raygauss.github.io/) |
 | 27.08.2024 | Oliver Yan | Neural Exposure Fusion for High-Dynamic Range Object Detection | [paper](https://openaccess.thecvf.com//content/CVPR2024/html/Onzon_Neural_Exposure_Fusion_for_High-Dynamic_Range_Object_Detection_CVPR_2024_paper.html) [project](https://light.princeton.edu/publication/neural-exposure-fusion/) |
-| 03.09.2024 | Donald Dansereau | TBD | TBD |
+| 03.09.2024 | IROS 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://iros2024-abudhabi.org/accepted-papers) [Conference page](https://iros2024-abudhabi.org/) |
+| 10.09.2024 | Donald Dansereau | ICCP 2024 paper reviews | [Conference page](https://iccp-conference.org/iccp2024/) |
 
 ## Members 
 * Active, Presenters
@@ -60,6 +60,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 20.08.2024 | Jack Naylor | RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis | [paper](https://doi.org/10.48550/arXiv.2408.03356) [project](https://raygauss.github.io/) |
 | 13.08.2024 | Nikolai Goncharov | SAM 2: Segment Anything in Images and Videos | [paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) [project](https://ai.meta.com/SAM2/) |
 | 06.08.2024 | Bina Rajan | Mitigating Motion Blur in Neural Radiance Fields with Events and Frames | [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cannici_Mitigating_Motion_Blur_in_Neural_Radiance_Fields_with_Events_and_CVPR_2024_paper.html) [project](https://github.com/uzh-rpg/EvDeblurNeRF) |
 | 29.07.2024 | Jesse Mehami | Learning Lens Blur Fields | [paper](https://doi.org/10.48550/arXiv.2310.11535) [project](https://estherlin.github.io/blur-fields/) |
