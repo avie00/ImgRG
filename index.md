@@ -10,11 +10,23 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 03.09.2024 | IROS 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://iros2024-abudhabi.org/accepted-papers) [Conference page](https://iros2024-abudhabi.org/) |
-| 10.09.2024 | Donald Dansereau | ICCP 2024 paper reviews | [Conference page](https://iccp-conference.org/iccp2024/) |
+| 10.09.2024 | ICCP 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://iccp2024.iccp-conference.org/conference-program/) [Conference page](https://iccp-conference.org/iccp2024/) |
+| 17.09.2024 | Jack Naylor | TBA | TBA |
+| 24.09.2024 | Jason Lai | TBA | TBA |
+| 01.10.2024 | Oliver Yan | TBA | TBA |
+| 08.10.2024 | Nikolai Goncharov | TBA | TBA |
+| 15.10.2024 | Bina Rajan | TBA | TBA |
+| 22.10.2024 | Donald Dansereau | TBA | TBA |
+| 29.10.2024 | Connor Langford | TBA | TBA |
+| 05.11.2024 | Jesse Mehami | TBA | TBA |
+| 12.11.2024 | Alexandre Cardaillac | TBA | TBA |
+| 13.11.2024 | James Gray | TBA | TBA |
 
 ## Members 
 * Active, Presenters
+  * Jason Lai
+  * Connor Langford
+  * James Gray
   * Ryan Griffiths
   * Jack Naylor
   * Bina Rajan
@@ -59,6 +71,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 03.09.2024 | IROS 2024 papers | 3 minutes presentation by each participant <br/> List of papers presented [here](https://docs.google.com/spreadsheets/d/1SHb8KIe0aDMg0DZ1AbAuHzW_1DTjVG9ImFWnYnzzmjs/edit?usp=sharing) | [accepted papers](https://iros2024-abudhabi.org/accepted-papers) [Conference page](https://iros2024-abudhabi.org/) |
 | 27.08.2024 | Oliver Yan | Neural Exposure Fusion for High-Dynamic Range Object Detection | [paper](https://openaccess.thecvf.com//content/CVPR2024/html/Onzon_Neural_Exposure_Fusion_for_High-Dynamic_Range_Object_Detection_CVPR_2024_paper.html) [project](https://light.princeton.edu/publication/neural-exposure-fusion/) |
 | 20.08.2024 | Jack Naylor | RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis | [paper](https://doi.org/10.48550/arXiv.2408.03356) [project](https://raygauss.github.io/) |
 | 13.08.2024 | Nikolai Goncharov | SAM 2: Segment Anything in Images and Videos | [paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) [project](https://ai.meta.com/SAM2/) |
