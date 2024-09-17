@@ -11,16 +11,17 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 17.09.2024 | ICCP 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://iccp2024.iccp-conference.org/conference-program/) [Conference page](https://iccp-conference.org/iccp2024/) |
-| 24.09.2024 | Jack Naylor | TBA | TBA |
+| 24.09.2024 | Jack Naylor | Global Structure-from-Motion Revisited | [paper](https://doi.org/10.48550/arXiv.2407.20219) [project](https://lpanaf.github.io/eccv24_glomap/) |
 | 01.10.2024 | Jason Lai | TBA | TBA |
 | 08.10.2024 | Oliver Yan | TBA | TBA |
-| 15.10.2024 | Nikolai Goncharov | TBA | TBA |
-| 22.10.2024 | Bina Rajan | TBA | TBA |
-| 29.10.2024 | Donald Dansereau | TBA | TBA |
-| 05.11.2024 | Connor Langford | TBA | TBA |
-| 12.11.2024 | Jesse Mehami | TBA | TBA |
-| 19.11.2024 | Alexandre Cardaillac | TBA | TBA |
-| 26.11.2024 | James Gray | TBA | TBA |
+| 15.10.2024 | ECCV 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://eccv2024.ecva.net/virtual/2024/papers.html) [Conference page](https://eccv2024.ecva.net/) |
+| 22.10.2024 | Nikolai Goncharov | TBA | TBA |
+| 29.10.2024 | Bina Rajan | TBA | TBA |
+| 05.11.2024 | Donald Dansereau | TBA | TBA |
+| 12.11.2024 | Connor Langford | TBA | TBA |
+| 19.11.2024 | Jesse Mehami | TBA | TBA |
+| 26.11.2024 | Alexandre Cardaillac | TBA | TBA |
+| 03.12.2024 | James Gray | TBA | TBA |
 
 ## Members 
 * Active, Presenters
