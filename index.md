@@ -10,9 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 24.09.2024 | Jack Naylor | Global Structure-from-Motion Revisited | [paper](https://doi.org/10.48550/arXiv.2407.20219) [project](https://lpanaf.github.io/eccv24_glomap/) |
-| 01.10.2024 | Jason Lai | DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark | [paper](https://doi.org/10.48550/arXiv.2403.10814) [project](https://tyz1030.github.io/proj/darkgs.html) |
-| 08.10.2024 | Oliver Yan | TBA | TBA |
+| 08.10.2024 | Oliver Yan | How Far Can a 1-Pixel Camera Go? Solving Vision Tasks using Photoreceptors and Computationally Designed Morphology | [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09512.pdf ) [project](https://visual-morphology.epfl.ch/) |
 | 15.10.2024 | ECCV 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://eccv2024.ecva.net/virtual/2024/papers.html) [Conference page](https://eccv2024.ecva.net/) |
 | 22.10.2024 | Nikolai Goncharov | TBA | TBA |
 | 29.10.2024 | Bina Rajan | TBA | TBA |
@@ -71,6 +69,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 01.10.2024 | Jason Lai | DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark | [paper](https://doi.org/10.48550/arXiv.2403.10814) [project](https://tyz1030.github.io/proj/darkgs.html) |
+| 24.09.2024 | Jack Naylor | Global Structure-from-Motion Revisited | [paper](https://doi.org/10.48550/arXiv.2407.20219) [project](https://lpanaf.github.io/eccv24_glomap/) |
 | 17.09.2024 | ICCP 2024 papers | 3 minutes presentation by each participant <br/> List of presented paper [here](https://docs.google.com/spreadsheets/d/1dphCRuhXhRfp3XiDioYvY38YouB-jlZQh0U-Ov9PV9A/edit?usp=sharing) | [accepted papers](https://iccp2024.iccp-conference.org/conference-program/) [Conference page](https://iccp-conference.org/iccp2024/) |
 | 03.09.2024 | IROS 2024 papers | 3 minutes presentation by each participant <br/> List of papers presented [here](https://docs.google.com/spreadsheets/d/1SHb8KIe0aDMg0DZ1AbAuHzW_1DTjVG9ImFWnYnzzmjs/edit?usp=sharing) | [accepted papers](https://iros2024-abudhabi.org/accepted-papers) [Conference page](https://iros2024-abudhabi.org/) |
 | 27.08.2024 | Oliver Yan | Neural Exposure Fusion for High-Dynamic Range Object Detection | [paper](https://openaccess.thecvf.com//content/CVPR2024/html/Onzon_Neural_Exposure_Fusion_for_High-Dynamic_Range_Object_Detection_CVPR_2024_paper.html) [project](https://light.princeton.edu/publication/neural-exposure-fusion/) |
