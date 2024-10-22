@@ -11,7 +11,7 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 22.10.2024 | Nikolai Goncharov | SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation | [paper](https://doi.ieeecomputersociety.org/10.1109/CVPR52733.2024.02636) |
-| 29.10.2024 | Bina Rajan | TBA | TBA |
+| 29.10.2024 | Bina Rajan | Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging | [paper](https://doi.ieeecomputersociety.org/10.1109/CVPR52733.2024.02395) [project](https://shadowfax11.github.io/cads/) |
 | 05.11.2024 | Donald Dansereau | TBA | TBA |
 | 12.11.2024 | Connor Langford | TBA | TBA |
 | 19.11.2024 | Jesse Mehami | TBA | TBA |
