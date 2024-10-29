@@ -11,12 +11,12 @@ The meetings are held once a week (day and time subject to change depending on a
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
 | 29.10.2024 | Bina Rajan | Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging | [paper](https://doi.ieeecomputersociety.org/10.1109/CVPR52733.2024.02395) [project](https://shadowfax11.github.io/cads/) |
-| 05.11.2024 | Connor Langford | TBA | TBA |
-| 12.11.2024 | Donald Dansereau | TBA | TBA |
-| 19.11.2024 | SIGGRAPH ASIA 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://asia.siggraph.org/2024/full-program/?filter1=sstype117&date=all) [Conference page](https://asia.siggraph.org/2024/) |
-| 26.11.2024 | Jesse Mehami | TBA | TBA |
-| 03.12.2024 | Alexandre Cardaillac | TBA | TBA |
-| 10.12.2024 | James Gray | TBA | TBA |
+| 12.11.2024 | SIGGRAPH ASIA 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://asia.siggraph.org/2024/full-program/?filter1=sstype117&date=all) [Conference page](https://asia.siggraph.org/2024/) |
+| 19.11.2024 | Donald Dansereau | TBA | TBA |
+| 25.11.2024 | Jesse Mehami | TBA | TBA |
+| 03.12.2024 | Connor Langford | TBA | TBA |
+| 10.12.2024 | Alexandre Cardaillac | TBA | TBA |
+| 17.12.2024 | James Gray | TBA | TBA |
 
 ## Members 
 * Active, Presenters
