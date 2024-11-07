@@ -10,7 +10,6 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 29.10.2024 | Bina Rajan | Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging | [paper](https://doi.ieeecomputersociety.org/10.1109/CVPR52733.2024.02395) [project](https://shadowfax11.github.io/cads/) |
 | 12.11.2024 | SIGGRAPH ASIA 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://asia.siggraph.org/2024/full-program/?filter1=sstype117&date=all) [Conference page](https://asia.siggraph.org/2024/) |
 | 19.11.2024 | Donald Dansereau | TBA | TBA |
 | 25.11.2024 | Jesse Mehami | TBA | TBA |
@@ -67,8 +66,9 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 29.10.2024 | Bina Rajan | Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging | [paper](https://doi.ieeecomputersociety.org/10.1109/CVPR52733.2024.02395) [project](https://shadowfax11.github.io/cads/) |
 | 22.10.2024 | Nikolai Goncharov | SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation | [paper](https://doi.ieeecomputersociety.org/10.1109/CVPR52733.2024.02636) |
-| 15.10.2024 | ECCV 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://eccv2024.ecva.net/virtual/2024/papers.html) [Conference page](https://eccv2024.ecva.net/) |
+| 15.10.2024 | ECCV 2024 papers | 3 minutes presentation by each participant  <br/> List of presented papers [here](https://docs.google.com/spreadsheets/d/1vUU-d1d2K1hvbM0TmPC2nry2WMXlBCIb3mOmego4aUY/edit?usp=sharing) | [accepted papers](https://eccv2024.ecva.net/virtual/2024/papers.html) [Conference page](https://eccv2024.ecva.net/) |
 | 08.10.2024 | Oliver Yan | How Far Can a 1-Pixel Camera Go? Solving Vision Tasks using Photoreceptors and Computationally Designed Morphology | [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09512.pdf ) [project](https://visual-morphology.epfl.ch/) |
 | 01.10.2024 | Jason Lai | DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark | [paper](https://doi.org/10.48550/arXiv.2403.10814) [project](https://tyz1030.github.io/proj/darkgs.html) |
 | 24.09.2024 | Jack Naylor | Global Structure-from-Motion Revisited | [paper](https://doi.org/10.48550/arXiv.2407.20219) [project](https://lpanaf.github.io/eccv24_glomap/) |
