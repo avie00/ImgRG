@@ -10,12 +10,11 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 12.11.2024 | SIGGRAPH ASIA 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://asia.siggraph.org/2024/full-program/?filter1=sstype117&date=all) [Conference page](https://asia.siggraph.org/2024/) |
 | 19.11.2024 | Donald Dansereau | TBA | TBA |
-| 25.11.2024 | Jesse Mehami | TBA | TBA |
+| 25.11.2024 | Alexandre Cardaillac | TBA | TBA |
 | 03.12.2024 | Connor Langford | TBA | TBA |
-| 10.12.2024 | Alexandre Cardaillac | TBA | TBA |
-| 17.12.2024 | James Gray | TBA | TBA |
+| 10.12.2024 | James Gray | TBA | TBA |
+| 17.12.2024 | Jesse Mehami | TBA | TBA |
 
 ## Members 
 * Active, Presenters
@@ -66,6 +65,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 12.11.2024 | SIGGRAPH ASIA 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://asia.siggraph.org/2024/full-program/?filter1=sstype117&date=all) [Conference page](https://asia.siggraph.org/2024/) |
 | 29.10.2024 | Bina Rajan | Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging | [paper](https://doi.ieeecomputersociety.org/10.1109/CVPR52733.2024.02395) [project](https://shadowfax11.github.io/cads/) |
 | 22.10.2024 | Nikolai Goncharov | SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation | [paper](https://doi.ieeecomputersociety.org/10.1109/CVPR52733.2024.02636) |
 | 15.10.2024 | ECCV 2024 papers | 3 minutes presentation by each participant  <br/> List of presented papers [here](https://docs.google.com/spreadsheets/d/1vUU-d1d2K1hvbM0TmPC2nry2WMXlBCIb3mOmego4aUY/edit?usp=sharing) | [accepted papers](https://eccv2024.ecva.net/virtual/2024/papers.html) [Conference page](https://eccv2024.ecva.net/) |
