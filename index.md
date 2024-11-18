@@ -10,8 +10,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 19.11.2024 | Donald Dansereau | TBA | TBA |
-| 25.11.2024 | Alexandre Cardaillac | TBA | TBA |
+| 19.11.2024 | Donald Dansereau | No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images | [paper](https://arxiv.org/abs/2410.24207) [project](https://noposplat.github.io/) |
+| 25.11.2024 | Alexandre Cardaillac | RecGS: Removing Water Caustic with Recurrent Gaussian Splatting | [paper](https://arxiv.org/abs/2407.10318) [project](https://tyz1030.github.io/proj/recgs.html) |
 | 03.12.2024 | Connor Langford | TBA | TBA |
 | 10.12.2024 | James Gray | TBA | TBA |
 | 17.12.2024 | Jesse Mehami | TBA | TBA |
