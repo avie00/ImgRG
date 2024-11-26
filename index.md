@@ -10,10 +10,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 19.11.2024 | Donald Dansereau | No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images | [paper](https://arxiv.org/abs/2410.24207) [project](https://noposplat.github.io/) |
-| 25.11.2024 | Alexandre Cardaillac | RecGS: Removing Water Caustic with Recurrent Gaussian Splatting | [paper](https://arxiv.org/abs/2407.10318) [project](https://tyz1030.github.io/proj/recgs.html) |
-| 03.12.2024 | Connor Langford | TBA | TBA |
-| 10.12.2024 | James Gray | TBA | TBA |
+| 03.12.2024 | James Gray | Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo | [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Adaptive_Patch_Deformation_for_Textureless-Resilient_Multi-View_Stereo_CVPR_2023_paper.html) |
+| 10.12.2024 | Connor Langford | TBA | TBA |
 | 17.12.2024 | Jesse Mehami | TBA | TBA |
 
 ## Members 
@@ -65,6 +63,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 25.11.2024 | Alexandre Cardaillac | RecGS: Removing Water Caustic with Recurrent Gaussian Splatting | [paper](https://arxiv.org/abs/2407.10318) [project](https://tyz1030.github.io/proj/recgs.html) |
+| 19.11.2024 | Donald Dansereau | No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images | [paper](https://arxiv.org/abs/2410.24207) [project](https://noposplat.github.io/) |
 | 12.11.2024 | SIGGRAPH ASIA 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://asia.siggraph.org/2024/full-program/?filter1=sstype117&date=all) [Conference page](https://asia.siggraph.org/2024/) |
 | 29.10.2024 | Bina Rajan | Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging | [paper](https://doi.ieeecomputersociety.org/10.1109/CVPR52733.2024.02395) [project](https://shadowfax11.github.io/cads/) |
 | 22.10.2024 | Nikolai Goncharov | SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation | [paper](https://doi.ieeecomputersociety.org/10.1109/CVPR52733.2024.02636) |
