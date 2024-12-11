@@ -10,8 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-
-| 17.12.2024 | All  | ImgRG Retrospective | [link](https://docs.google.com/spreadsheets/d/1meXm89N0TnqWeTl1r6dlXBuwp_x-4JO-RJPosco7s2I/edit?usp=sharing) |
+| 17.12.2024 | All  | ImgRG Retrospective | [form](https://docs.google.com/spreadsheets/d/1meXm89N0TnqWeTl1r6dlXBuwp_x-4JO-RJPosco7s2I/edit?usp=sharing) |
 
 ## Members 
 * Active, Presenters
