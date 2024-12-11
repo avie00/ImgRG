@@ -4,15 +4,14 @@ This page keeps track of the on-going imaging reading group activities. You will
 
 Our meetings generally alternate between reviewing a recent paper in detail, a section of a computational imaging textbook, and conference proceedings. Topics of interest span most of visual computing including computational imaging, computer vision, machine learning, and graphics covering novel cameras, representations and algorithms/architectures that let robots see and do.
 
-The meetings are held once a week (day and time subject to change depending on availabilities) in hybrid mode: via Zoom and hopefully and  in-person at J04/J18 conference rooms, Australian Centre For Robotics (ACFR), The University of Sydney, NSW, Australia. If you like to join Robotic Imaging Reading Group, feel free to contact us. 
+The meetings are held once a week (day and time subject to change depending on availabilities) in hybrid mode: via Zoom and hopefully and  in-person at J04/J18 conference rooms, Australian Centre For Robotics (ACFR), The University of Sydney, NSW, Australia. If you like to join Robotic Imaging Reading Group, feel free to contact us. You can subscribe to the mailing list [link](https://lists.acfr.usyd.edu.au/postorius/lists/imgrg.acfr.usyd.edu.au/).
 
 ## Upcoming Reading Sessions 
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 03.12.2024 | James Gray | Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo | [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Adaptive_Patch_Deformation_for_Textureless-Resilient_Multi-View_Stereo_CVPR_2023_paper.html) |
-| 10.12.2024 | Connor Langford | TBA | TBA |
-| 17.12.2024 | Jesse Mehami | TBA | TBA |
+
+| 17.12.2024 | All  | ImgRG Retrospective | [link](https://docs.google.com/spreadsheets/d/1meXm89N0TnqWeTl1r6dlXBuwp_x-4JO-RJPosco7s2I/edit?usp=sharing) |
 
 ## Members 
 * Active, Presenters
@@ -63,6 +62,8 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 10.12.2024 | Connor Langford | Workshop report on developing lunar interferometry missions | / |
+| 03.12.2024 | James Gray | Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo | [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Adaptive_Patch_Deformation_for_Textureless-Resilient_Multi-View_Stereo_CVPR_2023_paper.html) |
 | 25.11.2024 | Alexandre Cardaillac | RecGS: Removing Water Caustic with Recurrent Gaussian Splatting | [paper](https://arxiv.org/abs/2407.10318) [project](https://tyz1030.github.io/proj/recgs.html) |
 | 19.11.2024 | Donald Dansereau | No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images | [paper](https://arxiv.org/abs/2410.24207) [project](https://noposplat.github.io/) |
 | 12.11.2024 | SIGGRAPH ASIA 2024 papers | 3 minutes presentation by each participant | [accepted papers](https://asia.siggraph.org/2024/full-program/?filter1=sstype117&date=all) [Conference page](https://asia.siggraph.org/2024/) |
