@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 21.05.2025 | James Gray | 3D Gaussian Splatting with Deferred Reflection | [paper](https://dl.acm.org/doi/10.1145/3641519.3657456) [project](https://gapszju.github.io/3DGS-DR/) |
+| 21.01.2025 | James Gray | 3D Gaussian Splatting with Deferred Reflection | [paper](https://dl.acm.org/doi/10.1145/3641519.3657456) [project](https://gapszju.github.io/3DGS-DR/) |
 
 ## Members 
 * Active, Presenters
