@@ -10,7 +10,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |   
 | ---------| ----------- | ---------| ----------- |
-| 17.12.2024 | All  | ImgRG Retrospective | [form](https://docs.google.com/spreadsheets/d/1meXm89N0TnqWeTl1r6dlXBuwp_x-4JO-RJPosco7s2I/edit?usp=sharing) |
+| 21.05.2025 | James Gray | 3D Gaussian Splatting with Deferred Reflection | [paper](https://dl.acm.org/doi/10.1145/3641519.3657456) [project](https://gapszju.github.io/3DGS-DR/) |
 
 ## Members 
 * Active, Presenters
@@ -61,6 +61,7 @@ The meetings are held once a week (day and time subject to change depending on a
 
 | Date | Presenter | Paper Title | Related Link |  
 | ---------| ----------- | ---------| ----------- |
+| 17.12.2024 | All  | ImgRG Retrospective | [form](https://docs.google.com/spreadsheets/d/1meXm89N0TnqWeTl1r6dlXBuwp_x-4JO-RJPosco7s2I/edit?usp=sharing) |
 | 10.12.2024 | Connor Langford | Workshop report on developing lunar interferometry missions | / |
 | 03.12.2024 | James Gray | Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo | [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Adaptive_Patch_Deformation_for_Textureless-Resilient_Multi-View_Stereo_CVPR_2023_paper.html) |
 | 25.11.2024 | Alexandre Cardaillac | RecGS: Removing Water Caustic with Recurrent Gaussian Splatting | [paper](https://arxiv.org/abs/2407.10318) [project](https://tyz1030.github.io/proj/recgs.html) |
